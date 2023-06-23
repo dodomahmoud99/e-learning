@@ -1,2 +1,2 @@
 # e-learning
-elearning course english
+elearning course programming
